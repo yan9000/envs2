@@ -1,0 +1,30 @@
+{
+  "arch": "x86", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/win-32/", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "Lib/site-packages/setuptools-18.1-py2.7.egg", 
+    "Lib/site-packages/setuptools.pth", 
+    "Scripts/easy_install-script.py", 
+    "Scripts/easy_install.exe", 
+    "Scripts/easy_install.exe.manifest"
+  ], 
+  "license": "PSF or ZPL", 
+  "license_family": "PSF", 
+  "link": {
+    "source": "C:\\Anaconda\\pkgs\\setuptools-18.1-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "6f0b48797f0c4d317aebc4ff27eb0570", 
+  "name": "setuptools", 
+  "platform": "win", 
+  "requires": [], 
+  "size": 658347, 
+  "subdir": "win-32", 
+  "url": "https://repo.continuum.io/pkgs/free/win-32/setuptools-18.1-py27_0.tar.bz2", 
+  "version": "18.1"
+}

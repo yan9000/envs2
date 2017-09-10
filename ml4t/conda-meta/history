@@ -1,0 +1,16 @@
+==> 2015-08-22 12:39:02 <==
+# cmd: C:\Anaconda\Scripts\conda-script.py create -n ml4t python=2.7 pip pandas numpy matplotlib scipy
+matplotlib-1.4.3-np19py27_1
+numpy-1.9.2-py27_0
+pandas-0.16.2-np19py27_0
+pip-7.1.0-py27_1
+pyparsing-2.0.3-py27_0
+pyqt-4.10.4-py27_1
+python-2.7.10-0
+python-dateutil-2.4.2-py27_0
+pytz-2015.4-py27_0
+scipy-0.16.0-np19py27_0
+setuptools-18.1-py27_0
+six-1.9.0-py27_0
+wheel-0.24.0-py27_0
+# create specs: ['python 2.7*', 'pip', 'pandas', 'numpy', 'matplotlib', 'scipy']

@@ -1,0 +1,26 @@
+{
+  "arch": "x86", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/win-32/", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "Lib/site-packages/six-1.9.0-py2.7.egg-info", 
+    "Lib/site-packages/six.py", 
+    "Lib/site-packages/six.pyc"
+  ], 
+  "license": "MIT", 
+  "link": {
+    "source": "C:\\Anaconda\\pkgs\\six-1.9.0-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "b5f585f9c30be54f680596d219f9e3e9", 
+  "name": "six", 
+  "platform": "win", 
+  "requires": [], 
+  "size": 16642, 
+  "url": null, 
+  "version": "1.9.0"
+}
